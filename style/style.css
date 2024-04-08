@@ -1,12 +1,12 @@
-a{
-   text-decoration: none; 
-   
+body{
+    margin: 0;
+    padding: 0;
 }
 
-.my_github{
-    color: green;
+.main{
+    background: url(mainpage_background.jpg);
+    background-position: center;
+    height: 100000px;
+    width: 1000px;
 }
 
-.my_youtube{
-    color: red;
-}
