@@ -1,12 +1,6 @@
-body{
-    margin: 0;
-    padding: 0;
+header{
+    color: rgb(228, 196, 112);
+    background-color: rgb(107, 103, 88);
 }
 
-.main{
-    background: url(mainpage_background.jpg);
-    background-position: center;
-    height: 100000px;
-    width: 1000px;
-}
 
