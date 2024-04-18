@@ -1,8 +1,18 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url("img/omnium-Gatherum.jpg");
+    background-image: url("");
     /* https://img.lovepik.com/bg/20231221/Stunning-Background-Enhances-Electric-Guitar-on-Rock-Setup_2667979_wh860.jpg!/fw/860 */
+
+    /* https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/315fd278-6a78-46a0-94f6-e7d0b3a89059/d4m75e8-17c9db01-3b5b-4dd6-a68f-a1576c051c43.jpg/v1/fit/w_721,h_600,q_70,strp/guitar_by_anastasia1519_d4m75e8-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6IlwvZlwvMzE1ZmQyNzgtNmE3OC00NmEwLTk0ZjYtZTdkMGIzYTg5MDU5XC9kNG03NWU4LTE3YzlkYjAxLTNiNWItNGRkNi1hNjhmLWExNTc2YzA1MWM0My5qcGciLCJ3aWR0aCI6Ijw9NzIxIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.XXvzDM2VsY5pK5V_l-SBwuvRCQSOdc0sBOQI4MiWH2c */
+
+    /* https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c02285ed-d9ec-439b-aa46-84a3fe09ead8/db4qbn-12775bdb-94c6-44d6-b14f-37816953d037.jpg/v1/fit/w_700,h_700,q_70,strp/guitar_girl_by_ahnimah_db4qbn-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzAwIiwicGF0aCI6IlwvZlwvYzAyMjg1ZWQtZDllYy00MzliLWFhNDYtODRhM2ZlMDllYWQ4XC9kYjRxYm4tMTI3NzViZGItOTRjNi00NGQ2LWIxNGYtMzc4MTY5NTNkMDM3LmpwZyIsIndpZHRoIjoiPD03MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.rgZlko_F4uVo3tZ1_8vcQhdEGnDpEwe_6D_66zaIXak */
+
+    /* https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/be0361f1-9ef7-432c-9c0d-35e3ff3d646e/dl1pb-c9ac1a54-cdb3-4a33-a559-ab57ab354ba1.jpg/v1/fit/w_750,h_520,q_70,strp/guitar_and_amp_by_midiman_dl1pb-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTkyIiwicGF0aCI6IlwvZlwvYmUwMzYxZjEtOWVmNy00MzJjLTljMGQtMzVlM2ZmM2Q2NDZlXC9kbDFwYi1jOWFjMWE1NC1jZGIzLTRhMzMtYTU1OS1hYjU3YWIzNTRiYTEuanBnIiwid2lkdGgiOiI8PTg1NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.SMy6OZCd8XlKp2ZWS_IiwmnUKvprl8UP4Y1qYwCCIHE */
+
+    /* https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c463bcc-19d9-47e8-97e2-58f258570188/d5vtcs-426a9df0-c2d5-46c3-bc35-acbc82ada2c2.jpg/v1/fill/w_1032,h_774,q_70,strp/guitar_by_shattered_minds_d5vtcs-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvM2M0NjNiY2MtMTlkOS00N2U4LTk3ZTItNThmMjU4NTcwMTg4XC9kNXZ0Y3MtNDI2YTlkZjAtYzJkNS00NmMzLWJjMzUtYWNiYzgyYWRhMmMyLmpwZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.0GyULUEZN9MZNA8umUQYm8_2OjXw4TMvKFck81Skg3c */
+
+    
   }
 
   header {
