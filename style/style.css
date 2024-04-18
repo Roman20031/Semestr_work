@@ -12,7 +12,7 @@ body {
 
     /* https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c463bcc-19d9-47e8-97e2-58f258570188/d5vtcs-426a9df0-c2d5-46c3-bc35-acbc82ada2c2.jpg/v1/fill/w_1032,h_774,q_70,strp/guitar_by_shattered_minds_d5vtcs-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvM2M0NjNiY2MtMTlkOS00N2U4LTk3ZTItNThmMjU4NTcwMTg4XC9kNXZ0Y3MtNDI2YTlkZjAtYzJkNS00NmMzLWJjMzUtYWNiYzgyYWRhMmMyLmpwZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.0GyULUEZN9MZNA8umUQYm8_2OjXw4TMvKFck81Skg3c */
 
-    
+
   }
 
   header {
@@ -125,4 +125,12 @@ body {
   header .is-open {
     transform: translateX(-50%) translateY(0px);
   }
-  
+  main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    margin: auto;
+    
+  }
