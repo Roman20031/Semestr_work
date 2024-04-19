@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url("");
+    background-image: url("/img/guitar_girl_by_ahnimah_db4qbn-375w-2x.jpg");
     /* https://img.lovepik.com/bg/20231221/Stunning-Background-Enhances-Electric-Guitar-on-Rock-Setup_2667979_wh860.jpg!/fw/860 */
 
     /* https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/315fd278-6a78-46a0-94f6-e7d0b3a89059/d4m75e8-17c9db01-3b5b-4dd6-a68f-a1576c051c43.jpg/v1/fit/w_721,h_600,q_70,strp/guitar_by_anastasia1519_d4m75e8-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6IlwvZlwvMzE1ZmQyNzgtNmE3OC00NmEwLTk0ZjYtZTdkMGIzYTg5MDU5XC9kNG03NWU4LTE3YzlkYjAxLTNiNWItNGRkNi1hNjhmLWExNTc2YzA1MWM0My5qcGciLCJ3aWR0aCI6Ijw9NzIxIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.XXvzDM2VsY5pK5V_l-SBwuvRCQSOdc0sBOQI4MiWH2c */
@@ -141,5 +141,24 @@ body {
     position: relative;
     width: 100%;
     margin: auto;
+    flex-direction: column;
     
+  }
+  .conteiner{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+    
+  }
+
+  /* .content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+  } */
+  .text{
+    color: red;
+    background-color: aqua;
   }

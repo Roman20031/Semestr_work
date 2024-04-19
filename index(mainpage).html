@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="cs">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,6 +10,7 @@
     <!-- Musíte pro script.js nastavit defer, díky tomu se kód čte až na konci. Díky tomu funguje querry selektory v js -->
     <script src="/script/script.js" defer></script>
 </head>
+
 <body>
     <header>
         <!-- Wrapper dáváme kvůli tomu, aby na velkých monitorech nebyl header moc roztáhlý
@@ -21,7 +23,7 @@
              -->
             <div class="wrapper-logo">
                 <img src="/img/icons8-guitar-100.png" alt="">
-                
+
             </div>
             <div class="site-name">
                 <h2>Guitar Wiki</h2>
@@ -37,14 +39,14 @@
                 <span></span>
             </div>
             <div>
-                
+
             </div>
         </div>
         <!-- 
             Jedíný nav je mimo wrapper, důvod je takový, aby se na mobilním zařízení schovával pod wrapper.
             Pokud bychom to chtěli pod header, aby se schovával, je to těžší varianta, má konflikt s headrem, pokud je nav jako absolute
             Na PC verze se pak mění z-index a přizpůsobuje se na prostředek a itemy v navu pak ovládáme pomocí displey flexu
-         -->            
+         -->
         <nav>
             <!--
                 # Je prázdný odkaz, bude nás odkazovat na jednu na stejnou stránku
@@ -56,30 +58,50 @@
     </header>
     <main>
         <div class="main-content">
-            <div class="background">
+            <!-- <div class="background">
                 <img src="img/guitar_girl_by_ahnimah_db4qbn-375w-2x.jpg" alt="">
+            </div> -->
+            <div class="conteiner">     
+                <!-- <div class="content">
+                    <div class="img">
+                        <img src="img/Harley Benton D-120CE NT.jpg" alt="">
+                    </div>
+                    <div class="text">
+                        <p>Harley Benton D-120CE NT Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem
+                            illum quidem labore magnam dicta soluta, vitae veritatis repellat accusamus molestias corporis
+                            quo mollitia sint nemo suscipit nihil? Ipsam, adipisci incidunt!</p>
+    
+                    </div>
+                </div> -->
+                
+                <div class="img">
+                        <img src="img/Harley Benton D-120CE NT.jpg" alt="">
+                    </div>
+                    <div class="text">
+                        <p>Harley Benton D-120CE NT Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem
+                            illum quidem labore magnam dicta soluta, vitae veritatis repellat accusamus molestias corporis
+                            quo mollitia sint nemo suscipit nihil? Ipsam, adipisci incidunt!</p>
+    
+                    </div>
+                <div class="img">
+                    <img src="img/Harley Benton DC-200 BK Student Series.jpg" alt="">
+                </div>
+                <div class="text">
+                    <p>Harley Benton DC-200 BK Student Series Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Non quo a, quod omnis asperiores incidunt mollitia animi doloribus ratione ab, maiores
+                        recusandae temporibus eum labore blanditiis laborum quis eligendi ipsum!</p>
+                </div>
+                <div class="img">
+                    <img src="img/Harley Benton Amarok-7 BKNT Flame Burst.jpg" alt="">
+                </div>
+                <div class="text">
+                    <p>Harley Benton Amarok-7 BKNT Flame Burst Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Impedit vitae a nihil magni rem? Accusantium dolorem asperiores delectus doloremque nostrum, at
+                        corporis similique atque deserunt nemo tempore! Possimus, culpa facere?</p>
+                </div>
             </div>
-            <div class="img">
-                <img src="img/Harley Benton D-120CE NT.jpg" alt="">
-            </div>
-            <div class="text">
-                <p>Harley Benton D-120CE NT Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem illum quidem labore magnam dicta soluta, vitae veritatis repellat accusamus molestias corporis quo mollitia sint nemo suscipit nihil? Ipsam, adipisci incidunt!</p>
 
-            </div>
-            <div class="img">
-                <img src="img/Harley Benton DC-200 BK Student Series.jpg" alt="">
-            </div>
-            <div class="text">
-                <p>Harley Benton DC-200 BK Student Series Lorem ipsum dolor sit amet consectetur adipisicing elit. Non quo a, quod omnis asperiores incidunt mollitia animi doloribus ratione ab, maiores recusandae temporibus eum labore blanditiis laborum quis eligendi ipsum!</p>
-            </div>
-            <div class="img">
-                <img src="img/Harley Benton Amarok-7 BKNT Flame Burst.jpg" alt="">
-            </div>
-            <div class="text">
-                <p>Harley Benton Amarok-7 BKNT Flame Burst Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit vitae a nihil magni rem? Accusantium dolorem asperiores delectus doloremque nostrum, at corporis similique atque deserunt nemo tempore! Possimus, culpa facere?</p> 
-            </div>
 
-            
         </div>
 
 
@@ -87,13 +109,14 @@
     <footer>
         <div class="footer">
             <h2>About me:</h2>
-            <p>I am  just a regular guy who loves to play guitar sometimes. And crafts this Wiki in his free time.</p>
+            <p>I am just a regular guy who loves to play guitar sometimes. And crafts this Wiki in his free time.</p>
             <h2>Credits:</h2>
             <a href="https://www.thomann.de/cz/index.html">https://www.thomann.de/cz/index.html</a>
             <a href="https://www.deviantart.com">https://www.deviantart.com</a>
-            
+
         </div>
 
     </footer>
 </body>
+
 </html>
