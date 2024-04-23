@@ -142,13 +142,17 @@ body {
     width: 100%;
     margin: auto;
     flex-direction: column;
+    background-color: #fff;
     
   }
   .conteiner{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    justify-content: center;
     padding: 10px;
+    align-items: center;
+    
     
   }
 
